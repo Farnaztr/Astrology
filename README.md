@@ -12,6 +12,15 @@ This app helps users discover their **astrological sign** and **personality trai
 - **C#** (.NET Framework )
 - **Console Application**
   
+## 🚀 How to Run the Project
+
+To run this project on your own system:
+
+1. Open your C# IDE (e.g., **Visual Studio**).
+2. Create a new **Console Application** project.
+3. Copy the full code from this repository and **paste it into your `Program.cs`** file.
+4. run the application.
+
 ## 📋 Features
 
 - Takes birth date as input and calculates the zodiac sign
