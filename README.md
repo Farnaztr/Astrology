@@ -1,5 +1,5 @@
 
-# Astrology - Console App in C#
+# Astrology - Console App
 
 A simple console application written in C# that asks the user a question, determines their zodiac sign based on their birth date, and gives a personality analysis.
 
@@ -12,7 +12,7 @@ This app helps users discover their **astrological sign** and **personality trai
 - **C#** (.NET Framework )
 - **Console Application**
   
-## 🚀 How to Run the Project
+## How to Run the Project
 
 To run this project on your own system:
 
@@ -21,7 +21,7 @@ To run this project on your own system:
 3. Copy the full code from this repository and **paste it into your `Program.cs`** file.
 4. run the application.
 
-## 📋 Features
+## Features
 
 - Takes birth date as input and calculates the zodiac sign
 - Displays zodiac symbol and a short personality description
