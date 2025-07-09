@@ -3,9 +3,8 @@
 
 A simple console application written in C# that asks the user a question, determines their zodiac sign based on their birth date, and gives a personality analysis.
 
-  <img src="https://img.shields.io/badge/Author-farnaztr-darkpurple" />
+  <img src="https://img.shields.io/badge/Author-farnaztr-dark" />
   <img src="https://img.shields.io/badge/Project-Astrology-dark" />
-  <img src="https://img.shields.io/github/stars/farnaztr/Astrology?style=social" />
 
 ##  Project Goal
 
